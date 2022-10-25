@@ -1,21 +1,21 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
+    "ownerNumber": "6289504998484@s.whatsapp.net",
+    "ownerName": "CLOWN STORE",
+    "botName": "CLOWN BOT-Md",
     "footer": "Xcode Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/Riy04",
-    "instagram": "https://instagram.com/riychdwayne",
+    "youtube": "GAK PUNYA",
+    "instagram": "Clown_store9",
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 100,
     "gcount": {
-        "prem": 35,
-        "user": 15
+        "prem": 99999,
+        "user": 100
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "CLOWN-Md",
+        "author": "by clown-store"
     }
 }
